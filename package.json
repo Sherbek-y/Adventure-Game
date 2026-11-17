@@ -9,10 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sherbek-y/node.js_lessons.git"
-  },
+  
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
